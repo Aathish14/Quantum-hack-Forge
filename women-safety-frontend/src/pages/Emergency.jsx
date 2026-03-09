@@ -9,7 +9,11 @@ const Emergency = () => {
   return (
     <div>
 
+<<<<<<< Updated upstream
       <h1>Women Safety System</h1>
+=======
+      <h1>Safety System</h1>
+>>>>>>> Stashed changes
 
       <EmergencyButton setIncidentId={setIncidentId} />
 
